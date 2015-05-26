@@ -39,16 +39,9 @@ castspell:1459;1460;1461;10156;10157
 selfbuff!1459;1460;1461;10156;10157
 !incombat
 
-//Frost Armor
-castspell:168;7300;7301
+//Frost Armor & Ice Armor
+castspell:168;7300;7301;7302;7320;10219;10220
 selfbuff!168;7300;7301;7302;7320;10219;10220
-level<30
-!incombat
-
-//Ice Armor
-castspell:7302;7320;10219;10220
-selfbuff!7302;7320;10219;10220
-level>29
 !incombat
 
 //Dampen Magic
